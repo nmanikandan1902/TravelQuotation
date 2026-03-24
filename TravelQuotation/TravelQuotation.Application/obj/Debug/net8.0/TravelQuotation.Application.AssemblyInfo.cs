@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TravelQuotation.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f29b0e3225290ba128376096cefedad7cfc54d29")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81a7085824574c0e4acf18da7dafce4493bc22fd")]
 [assembly: System.Reflection.AssemblyProductAttribute("TravelQuotation.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TravelQuotation.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
