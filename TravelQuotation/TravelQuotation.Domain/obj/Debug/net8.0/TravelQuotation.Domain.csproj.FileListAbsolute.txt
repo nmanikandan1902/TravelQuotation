@@ -1,0 +1,11 @@
+D:\Mani-Hari Project\TravelQuotation\TravelQuotation.Domain\bin\Debug\net8.0\TravelQuotation.Domain.deps.json
+D:\Mani-Hari Project\TravelQuotation\TravelQuotation.Domain\bin\Debug\net8.0\TravelQuotation.Domain.dll
+D:\Mani-Hari Project\TravelQuotation\TravelQuotation.Domain\bin\Debug\net8.0\TravelQuotation.Domain.pdb
+D:\Mani-Hari Project\TravelQuotation\TravelQuotation.Domain\obj\Debug\net8.0\TravelQuotation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mani-Hari Project\TravelQuotation\TravelQuotation.Domain\obj\Debug\net8.0\TravelQuotation.Domain.AssemblyInfoInputs.cache
+D:\Mani-Hari Project\TravelQuotation\TravelQuotation.Domain\obj\Debug\net8.0\TravelQuotation.Domain.AssemblyInfo.cs
+D:\Mani-Hari Project\TravelQuotation\TravelQuotation.Domain\obj\Debug\net8.0\TravelQuotation.Domain.csproj.CoreCompileInputs.cache
+D:\Mani-Hari Project\TravelQuotation\TravelQuotation.Domain\obj\Debug\net8.0\TravelQuotation.Domain.dll
+D:\Mani-Hari Project\TravelQuotation\TravelQuotation.Domain\obj\Debug\net8.0\refint\TravelQuotation.Domain.dll
+D:\Mani-Hari Project\TravelQuotation\TravelQuotation.Domain\obj\Debug\net8.0\TravelQuotation.Domain.pdb
+D:\Mani-Hari Project\TravelQuotation\TravelQuotation.Domain\obj\Debug\net8.0\ref\TravelQuotation.Domain.dll
