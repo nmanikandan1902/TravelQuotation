@@ -9,3 +9,16 @@ D:\Mani-Hari Project\TravelQuotation\TravelQuotation.Domain\obj\Debug\net8.0\Tra
 D:\Mani-Hari Project\TravelQuotation\TravelQuotation.Domain\obj\Debug\net8.0\refint\TravelQuotation.Domain.dll
 D:\Mani-Hari Project\TravelQuotation\TravelQuotation.Domain\obj\Debug\net8.0\TravelQuotation.Domain.pdb
 D:\Mani-Hari Project\TravelQuotation\TravelQuotation.Domain\obj\Debug\net8.0\ref\TravelQuotation.Domain.dll
+D:\Mani-Hari_Project\Projects\TravelQuotation\TravelQuotation.Domain\bin\Debug\net8.0\TravelQuotation.Domain.deps.json
+D:\Mani-Hari_Project\Projects\TravelQuotation\TravelQuotation.Domain\bin\Debug\net8.0\TravelQuotation.Domain.dll
+D:\Mani-Hari_Project\Projects\TravelQuotation\TravelQuotation.Domain\bin\Debug\net8.0\TravelQuotation.Domain.pdb
+D:\Mani-Hari_Project\Projects\TravelQuotation\TravelQuotation.Domain\obj\Debug\net8.0\TravelQuotation.Domain.csproj.AssemblyReference.cache
+D:\Mani-Hari_Project\Projects\TravelQuotation\TravelQuotation.Domain\obj\Debug\net8.0\TravelQuotation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mani-Hari_Project\Projects\TravelQuotation\TravelQuotation.Domain\obj\Debug\net8.0\TravelQuotation.Domain.AssemblyInfoInputs.cache
+D:\Mani-Hari_Project\Projects\TravelQuotation\TravelQuotation.Domain\obj\Debug\net8.0\TravelQuotation.Domain.AssemblyInfo.cs
+D:\Mani-Hari_Project\Projects\TravelQuotation\TravelQuotation.Domain\obj\Debug\net8.0\TravelQuotation.Domain.csproj.CoreCompileInputs.cache
+D:\Mani-Hari_Project\Projects\TravelQuotation\TravelQuotation.Domain\obj\Debug\net8.0\TravelQuotation.Domain.sourcelink.json
+D:\Mani-Hari_Project\Projects\TravelQuotation\TravelQuotation.Domain\obj\Debug\net8.0\TravelQuotation.Domain.dll
+D:\Mani-Hari_Project\Projects\TravelQuotation\TravelQuotation.Domain\obj\Debug\net8.0\refint\TravelQuotation.Domain.dll
+D:\Mani-Hari_Project\Projects\TravelQuotation\TravelQuotation.Domain\obj\Debug\net8.0\TravelQuotation.Domain.pdb
+D:\Mani-Hari_Project\Projects\TravelQuotation\TravelQuotation.Domain\obj\Debug\net8.0\ref\TravelQuotation.Domain.dll
