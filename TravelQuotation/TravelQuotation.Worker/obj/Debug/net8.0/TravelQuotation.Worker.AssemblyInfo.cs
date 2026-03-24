@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TravelQuotation.Worker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81a7085824574c0e4acf18da7dafce4493bc22fd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a310b86a844c6bc7d69cc4594bfe3a1f5debee4")]
 [assembly: System.Reflection.AssemblyProductAttribute("TravelQuotation.Worker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TravelQuotation.Worker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
