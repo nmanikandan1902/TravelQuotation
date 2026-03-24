@@ -1603,11 +1603,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Mani-Hari Project\\TravelQuotation\\TravelQuotation.Worker\\TravelQuotation.Worker.csproj",
+      "projectUniqueName": "D:\\Mani-Hari_Project\\Projects\\TravelQuotation\\TravelQuotation.Worker\\TravelQuotation.Worker.csproj",
       "projectName": "TravelQuotation.Worker",
-      "projectPath": "D:\\Mani-Hari Project\\TravelQuotation\\TravelQuotation.Worker\\TravelQuotation.Worker.csproj",
+      "projectPath": "D:\\Mani-Hari_Project\\Projects\\TravelQuotation\\TravelQuotation.Worker\\TravelQuotation.Worker.csproj",
       "packagesPath": "C:\\Users\\nmani\\.nuget\\packages\\",
-      "outputPath": "D:\\Mani-Hari Project\\TravelQuotation\\TravelQuotation.Worker\\obj\\",
+      "outputPath": "D:\\Mani-Hari_Project\\Projects\\TravelQuotation\\TravelQuotation.Worker\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1629,11 +1629,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Mani-Hari Project\\TravelQuotation\\TravelQuotation.Application\\TravelQuotation.Application.csproj": {
-              "projectPath": "D:\\Mani-Hari Project\\TravelQuotation\\TravelQuotation.Application\\TravelQuotation.Application.csproj"
+            "D:\\Mani-Hari_Project\\Projects\\TravelQuotation\\TravelQuotation.Application\\TravelQuotation.Application.csproj": {
+              "projectPath": "D:\\Mani-Hari_Project\\Projects\\TravelQuotation\\TravelQuotation.Application\\TravelQuotation.Application.csproj"
             },
-            "D:\\Mani-Hari Project\\TravelQuotation\\TravelQuotation.Infrastructure\\TravelQuotation.Infrastructure.csproj": {
-              "projectPath": "D:\\Mani-Hari Project\\TravelQuotation\\TravelQuotation.Infrastructure\\TravelQuotation.Infrastructure.csproj"
+            "D:\\Mani-Hari_Project\\Projects\\TravelQuotation\\TravelQuotation.Infrastructure\\TravelQuotation.Infrastructure.csproj": {
+              "projectPath": "D:\\Mani-Hari_Project\\Projects\\TravelQuotation\\TravelQuotation.Infrastructure\\TravelQuotation.Infrastructure.csproj"
             }
           }
         }
