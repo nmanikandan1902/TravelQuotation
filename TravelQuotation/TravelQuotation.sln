@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36518.9 d17.14
+VisualStudioVersion = 17.14.36518.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelQuotation.Domain", "TravelQuotation.Domain\TravelQuotation.Domain.csproj", "{AF4F2F43-AF56-4EB0-BF56-E0C810981E0B}"
 EndProject
@@ -10,6 +10,11 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelQuotation.Infrastructure", "TravelQuotation.Infrastructure\TravelQuotation.Infrastructure.csproj", "{0E7585FB-B227-4C5B-B45D-60EF06F29DBB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelQuotation.Worker", "TravelQuotation.Worker\TravelQuotation.Worker.csproj", "{DA3860D2-244D-4385-99B7-08FB1C398097}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
